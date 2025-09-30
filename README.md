@@ -25,4 +25,4 @@ An **interactive Python assistant** that answers project management questions by
 
 ## ✨ Screenshots
 - Light Mode	
-![image](https://github.com/user-attachments/assets/0b5783a9-bca7-4f20-84e4-74e30ca7df89)
+![image]([https://github.com/user-attachments/assets/0b5783a9-bca7-4f20-84e4-74e30ca7df89](https://github.com/kolirolly/placement_labtest_2/blob/a3d59b7d1ad984a9719c8c6217d66b082fdf6467/Screenshot%202025-09-30%20140350.png))
