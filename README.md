@@ -29,5 +29,5 @@ An **interactive Python assistant** that answers project management questions by
 
 Here is how the GUI looks when asking a question:
 
-![Project Management Assistant GUI](screenshots/gui_screenshot.png)
+![Project Management Assistant GUI](Screenshot 2025-09-30 140350.png)
 
