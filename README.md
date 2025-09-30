@@ -21,13 +21,5 @@ An **interactive Python assistant** that answers project management questions by
 3. **Analysis:** The selected files’ content is sent to the LLM to generate a clear, concise answer.  
 4. **Response:** Displays the answer along with the list of files used.
 
-**Workflow Diagram:**
 
-
-
-## Screenshot
-
-Here is how the GUI looks when asking a question:
-
-![Project Management Assistant GUI](data/Screenshot 2025-09-30 140350.png)
 
