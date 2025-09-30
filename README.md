@@ -23,3 +23,6 @@ An **interactive Python assistant** that answers project management questions by
 
 
 
+## ✨ Screenshots
+- Light Mode	
+![image](https://github.com/user-attachments/assets/0b5783a9-bca7-4f20-84e4-74e30ca7df89)
